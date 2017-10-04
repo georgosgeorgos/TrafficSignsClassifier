@@ -1,0 +1,4 @@
+model_checkpoint_path: "lenet"
+all_model_checkpoint_paths: "lenet-544"
+all_model_checkpoint_paths: "lenet-5984"
+all_model_checkpoint_paths: "lenet"
